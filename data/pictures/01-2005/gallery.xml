@@ -32,7 +32,6 @@
 	<NAME>picture108.jpg</NAME>
 	<CAPTION>Image 8</CAPTION>
 </IMAGE>
-
 <IMAGE>
 	<NAME>picture109.jpg</NAME>
 	<CAPTION>Image 9</CAPTION>
@@ -65,7 +64,6 @@
 	<NAME>picture116.jpg</NAME>
 	<CAPTION>Image 16</CAPTION>
 </IMAGE> 
-
 <IMAGE>
 	<NAME>picture117.jpg</NAME>
 	<CAPTION>Image 17</CAPTION>
@@ -97,6 +95,22 @@
 <IMAGE>
 	<NAME>picture124.jpg</NAME>
 	<CAPTION>Image 24</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture125.jpg</NAME>
+	<CAPTION>Image 25</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture126.jpg</NAME>
+	<CAPTION>Image 26</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture127.jpg</NAME>
+	<CAPTION>Image 27</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture128.jpg</NAME>
+	<CAPTION>Image 28</CAPTION>
 </IMAGE>
 
 </SIMPLEVIEWER_DATA>
