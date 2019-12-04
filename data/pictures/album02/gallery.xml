@@ -12,6 +12,24 @@
 	<NAME>picture103.jpg</NAME>
 	<CAPTION>Image 3</CAPTION>
 </IMAGE>
-
+<IMAGE>
+	<NAME>picture104.jpg</NAME>
+	<CAPTION>Image 4</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture105.jpg</NAME>
+	<CAPTION>Image 5</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture106.jpg</NAME>
+	<CAPTION>Image 6</CAPTION>
+</IMAGE><IMAGE>
+	<NAME>picture107.jpg</NAME>
+	<CAPTION>Image 7</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture108.jpg</NAME>
+	<CAPTION>Image 8</CAPTION>
+</IMAGE>
 
 </SIMPLEVIEWER_DATA>
