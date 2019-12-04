@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SIMPLEVIEWER_DATA maxImageDimension="1024" textColor="0xFF00FF" frameColor="0xFFFFFF" bgColor="0x181818" frameWidth="5" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="right" navDirection="LTR" title="Good Photos" imagePath="" thumbPath="">
+<IMAGE>
+	<NAME>picture101.jpg</NAME>
+	<CAPTION>Image 1</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture102.jpg</NAME>
+	<CAPTION>Image 2</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture103.jpg</NAME>
+	<CAPTION>Image 3</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture104.jpg</NAME>
+	<CAPTION>Image 4</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture105.jpg</NAME>
+	<CAPTION>Image 5</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture106.jpg</NAME>
+	<CAPTION>Image 6</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture107.jpg</NAME>
+	<CAPTION>Image 7</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture108.jpg</NAME>
+	<CAPTION>Image 8</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture109.jpg</NAME>
+	<CAPTION>Image 9</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture110.jpg</NAME>
+	<CAPTION>Image 10</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture111.jpg</NAME>
+	<CAPTION>Image 11</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture112.jpg</NAME>
+	<CAPTION>Image 12</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture113.jpg</NAME>
+	<CAPTION>Image 13</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture114.jpg</NAME>
+	<CAPTION>Image 14</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture115.jpg</NAME>
+	<CAPTION>Image 15</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture116.jpg</NAME>
+	<CAPTION>Image 16</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture117.jpg</NAME>
+	<CAPTION>Image 17</CAPTION>
+</IMAGE>
+<IMAGE>
+	<NAME>picture118.jpg</NAME>
+	<CAPTION>Image 18</CAPTION>
+</IMAGE>
+
+</SIMPLEVIEWER_DATA>
