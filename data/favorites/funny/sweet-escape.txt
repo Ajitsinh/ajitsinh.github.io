@@ -1,0 +1,3 @@
+This is just test file, you may want to keep.
+
+Any *.asx will not run directly on this PC but try from somewhere else for testing.
