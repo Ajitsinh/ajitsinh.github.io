@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SIMPLEVIEWER_DATA maxImageDimension="1024" textColor="0xFF00FF" frameColor="0xFFFFFF" bgColor="0x181818" frameWidth="5" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="right" navDirection="LTR" title="Towing Photos" imagePath="" thumbPath="">
+<SIMPLEVIEWER_DATA maxImageDimension="1024" textColor="0xFF00FF" frameColor="0xFFFFFF" bgColor="0x181818" frameWidth="5" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="right" navDirection="LTR" title="Sanjana's Photos" imagePath="" thumbPath="">
 <IMAGE>
 	<NAME>picture101.jpg</NAME>
 	<CAPTION>Image 1</CAPTION>
@@ -30,18 +30,6 @@
 <IMAGE>
 	<NAME>picture108.jpg</NAME>
 	<CAPTION>Image 8</CAPTION>
-</IMAGE>
-<IMAGE>
-	<NAME>picture109.jpg</NAME>
-	<CAPTION>Image 9</CAPTION>
-</IMAGE>
-<IMAGE>
-	<NAME>picture110.jpg</NAME>
-	<CAPTION>Image 10</CAPTION>
-</IMAGE>
-<IMAGE>
-	<NAME>picture111.jpg</NAME>
-	<CAPTION>Image 11</CAPTION>
 </IMAGE>
 
 </SIMPLEVIEWER_DATA>

@@ -22,14 +22,15 @@
 		height: 100%;
 		margin: 0;
 		padding: 0;
-		background="..\images\bg1.gif";
+		background-color: #181818;
+		color:#ffffff;
 	}
 </style>
 </head>
 <body>
 	<div id="flashcontent">SimpleViewer requires Macromedia Flash. <a href="http://www.macromedia.com/go/getflashplayer/">Get Macromedia Flash.</a> If you have Flash installed, <a href="index.html?detectflash=true">click to view gallery</a>.</div>
 	<script type="text/javascript">
-		var fo = new SWFObject("viewer.swf", "viewer", "80%", "80%", "7", "#181818");
+		var fo = new SWFObject("viewer.swf", "viewer", "100%", "100%", "7", "#181818");
 		fo.addVariable("preloaderColor", "0xffffff");
 		fo.addVariable("xmlDataPath", "gallery.xml");
 		fo.write("flashcontent");
