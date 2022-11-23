@@ -13,22 +13,17 @@
 <table cellSpacing="2" cellPadding="10" align="center" border="2" width="100%" height="100%">
 	<tr>
 		<td align="center" valign="top">
-
-<object id="MediaPlayer1"
-height="69"
-classid="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95"
-codebase="http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=6,4,7,1112"
-standby="Loading....."
-type="application/x-oleobject">
-<param name="FileName" value="britney.asx">
-<param name="ShowStatusBar" value="true">
-<embed type="application/x-mplayer2"
-name="MediaPlayer1"
-pluginspage = "http://www.microsoft.com/Windows/MediaPlayer/"
-height="69"
-src="britney.asx"
-showstatusbar="1">
-</embed>
+<object>
+<audio data-role="audio-player"
+       data-loop-icon="<span class='mif-loop2 fg-orange'></span>"
+       data-mute-icon="<span class='mif-volume-mute2 fg-red'></span>"
+       data-volume-low-icon="<span class='mif-volume-low fg-yellow'></span>"
+       data-volume-medium-icon="<span class='mif-volume-medium fg-green'></span>"
+       data-volume-high-icon="<span class='mif-volume-high fg-red'></span>"
+       data-play-icon="<img src='images/play-icon.png'>"
+       data-stop-icon="<img src='images/player_stop.png'>"
+       data-src="file.mp3">
+</audio>
 </object>
 
 <p align="left">
