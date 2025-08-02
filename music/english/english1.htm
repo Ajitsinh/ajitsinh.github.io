@@ -14,22 +14,11 @@
 	<tr>
 		<td align="center" valign="top">
 
-<object id="MediaPlayer1"
-height="69"
-classid="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95"
-codebase="http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=6,4,7,1112"
-standby="Loading....."
-type="application/x-oleobject">
-<param name="FileName" value="*.asx">
-<param name="ShowStatusBar" value="true">
-<embed type="application/x-mplayer2"
-name="MediaPlayer1"
-pluginspage = "http://www.microsoft.com/Windows/MediaPlayer/"
-height="72"
-src="*.asx"
-showstatusbar="1">
-</embed>
-</object>
+<audio id="MediaPlayer1" controls preload="auto">
+  <source src="media.mp3" type="audio/mpeg" />
+  <source src="media.ogg" type="audio/ogg" />
+  Your browser does not support the audio element.
+</audio>
 
 		</td>
 	</tr>
