@@ -28,12 +28,12 @@
 
   <div class="playlist">
     <button onclick="playTrack('yaara.mp3')">🎵 Yaara</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Showdown.wma')">🎵 Showdown</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Breathe on Me.wma')">🎵 Breathe on Me</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Toxic.wma')">🎵 Toxic</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Outrageous.wma')">🎵 Outrageous</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/The Hook Up.wma')">🎵 The Hook Up</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Me Against the Music [Remix].wma')">🎵 Me Against the Music (Remix)</button>
+    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Showdown.mp3')">🎵 Showdown</button>
+    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Breathe on Me.mp3')">🎵 Breathe on Me</button>
+    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Toxic.mp3')">🎵 Toxic</button>
+    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Outrageous.mp3')">🎵 Outrageous</button>
+    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/The Hook Up.mp3')">🎵 The Hook Up</button>
+    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Me Against the Music [Remix].mp3')">🎵 Me Against the Music (Remix)</button>
     <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Hit me baby one more time.mp3')">🎵 ...Baby One More Time</button>
     <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/new song.mp3')">🎵 New Song</button>
   </div>
