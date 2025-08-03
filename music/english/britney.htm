@@ -1,53 +1,68 @@
-<!DOCTYPE html>
 <html>
+
 <head>
-  <meta charset="UTF-8">
-  <title>Modern Audio Playlist</title>
-  <style>
-    body { font-family: Arial, sans-serif; background: #111; color: #fff; padding: 20px; }
-    .playlist { margin-top: 20px; }
-    .playlist button {
-      background: #333;
-      color: white;
-      padding: 8px 12px;
-      margin: 4px;
-      border: none;
-      cursor: pointer;
-      border-radius: 4px;
-    }
-    .playlist button:hover { background: #555; }
-  </style>
+<META http-equiv="imagetoolbar" content="no" />
 </head>
-<body style="margin: 0; background-image: url('../../images/bg1.gif'); background-size: cover;">
 
-  <h2>🎧 Britney Playlist</h2>
-  <audio id="audioPlayer" controls style="width: 100%; height: 40px;">
-    <source src="yaara.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
+<body topmargin="0" leftmargin="0" background="..\..\images\bg1.gif">
 
-  <div class="playlist">
-    <button onclick="playTrack('yaara.wma')">🎵 Yaara-wma</button>
-    <button onclick="playTrack('yaara.mp3')">🎵 Yaara-mp3</button>
-    <button onclick="playTrack('yaara.wav')">🎵 Yaara-wav</button>
-    <button onclick="playTrack('yaara.ogg')">🎵 Yaara-ogg</button>	
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Showdown.mp3')">🎵 Showdown</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Breathe%20on%20Me.mp3')">🎵 Breathe on Me</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Toxic.mp3')">🎵 Toxic</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Outrageous.mp3')">🎵 Outrageous</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/The%20Hook%20Up.mp3')">🎵 The Hook Up</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Me%20Against%20the%20Music%20[Remix].mp3')">🎵 Me Against the Music (Remix)</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/Hit%20me%20baby%20one%20more%20time.mp3')">🎵 ...Baby One More Time</button>
-    <button onclick="playTrack('http://www.ajitsinh.com/songs1/english/new%20song.mp3')">🎵 New Song</button>
-  </div>
+<table cellSpacing="1" cellPadding="1" align="center" border="1" width="100%" height="100%">
+	<tr>
+		<td align="center" width="100%" height="100%">
 
-  <script>
-    function playTrack(src) {
-      const player = document.getElementById('audioPlayer');
-      player.src = src;
-      player.play();
-    }
-  </script>
+<table cellSpacing="2" cellPadding="10" align="center" border="2" width="100%" height="100%">
+	<tr>
+		<td align="center" valign="top">
+
+<object id="MediaPlayer1"
+height="69"
+classid="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95"
+codebase="http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=6,4,7,1112"
+standby="Loading....."
+type="application/x-oleobject">
+<param name="FileName" value="britney.asx">
+<param name="ShowStatusBar" value="true">
+<embed type="application/x-mplayer2"
+name="MediaPlayer1"
+pluginspage = "http://www.microsoft.com/Windows/MediaPlayer/"
+height="69"
+src="britney.asx"
+showstatusbar="1">
+</embed>
+</object>
+
+<p align="left">
+<font color="#00FF00">
+<b>Britney Spears</b>
+<br><br>
+
+Showdown
+<br>
+Breathe on Me
+<br>
+Toxic
+<br>
+Outrageous
+<br>
+The Hook Up
+<br>
+Me Against the Music(Remix)
+<br>
+Hit me baby one more time
+<br>
+New Song
+<br>
+
+</font>
+
+		</td>
+	</tr>
+</table>
+
+		</td>
+	</tr>
+</table>
 
 </body>
+
 </html>
